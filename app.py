@@ -335,4 +335,5 @@ if submit:
     st.write(" You are expected to spend:{} ".format(result_dic[output]))
 
 
-st.write("Developed with ❤️ by Davis David")
+url = "https://twitter.com/Davis_McDavid"
+st.write("Developed with ❤️ by [Davis David](%s)" % url)
