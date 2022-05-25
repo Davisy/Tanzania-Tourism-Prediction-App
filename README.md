@@ -1,7 +1,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davisy/tanzania-tourism-prediction-app/app.py)
 ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
-# Tanzania Tourism Prediciton App
+# Tanzania Tourism Prediction App
 A machine learning app to predict how much money a tourist will spend when visiting Tanzania.
 
 <img src="https://www.planetware.com/photos-large/TZA/tanzania-mount-kilimanjaro.jpg" alt="Tanzania Tourism Prediciton App" />
