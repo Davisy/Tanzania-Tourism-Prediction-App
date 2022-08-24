@@ -1,3 +1,4 @@
+# import packages 
 import streamlit as st
 import joblib
 import pandas as pd
@@ -318,7 +319,7 @@ if submit:
         "first_trip_tz": first_trip_tz,
     }
 
-    # create a draframe
+    # create a dataframe
     data = pd.DataFrame(input, index=[0])
 
     # clean and transform input
